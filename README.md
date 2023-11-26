@@ -10,12 +10,14 @@ Importer le code et exécutez le projet  :
 
 ![Authentification](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/61912da9-3149-4788-8605-033b4fb69aab)
 
-Saissez votre compte:
+la page de authentification s'affiche.
+
+Saissez votre donnes:
 
 ![COMPTE](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/42dd002c-7dc7-468a-9a87-c5feb7e4ab0a)
 
 
-la page de authentification s'affiche.
+
 
 ### III Ajouter une service:
 
@@ -35,7 +37,7 @@ La service Math bien ajouté.
 
 ![SERVICEupdate](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/5d4236bf-4be2-4337-9253-684d31943a81)
 
-2 Cliquesz  sur update pour  la service qui vous voulez modifié:
+2 Cliquez  sur update pour  la service qui vous voulez modifié:
 
 ![SERVICEupdate1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/e0b0dd41-a979-4d10-b1b9-c7ade19beeec)
 
@@ -109,6 +111,7 @@ L'employe elmouwahid  bien supprimé.
 
 
 2 Chéma base de donnés :
+
 ![BD](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/c60f4f83-ec60-4264-a88b-4523592645fa)
 
 ###  Fonctionnalités du projet :

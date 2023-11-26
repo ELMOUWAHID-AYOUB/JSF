@@ -8,13 +8,14 @@
 
 Importer le code et exécutez le projet  :
 
-![Authentification](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/61912da9-3149-4788-8605-033b4fb69aab)
+![Authentification](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/096ed3c1-1f48-477b-9c48-5acfb6e69e24)
+
 
 la page de authentification s'affiche.
 
 Saissez votre donnes:
 
-![COMPTE](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/42dd002c-7dc7-468a-9a87-c5feb7e4ab0a)
+![COMPTE](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/878d7745-3451-4510-9571-c3df8c6427c2)
 
 
 

@@ -100,7 +100,10 @@ L'employe elmouwahid  bien supprimé.
 
 ### IIII Statistics le nombre d’employés par service :
 
+![STATSTIC](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/780cfd6f-4026-4175-97b2-46bcd6e67c61)
 
+
+### IIII Fiche d'un employeé:
 
 ### IIIII Base de donnes :
 

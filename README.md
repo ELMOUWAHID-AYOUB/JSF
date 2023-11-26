@@ -2,7 +2,7 @@
 
 ### I Introduction :
 
-   Ce projet de gestion des employes et service a été créé en utilisant Hibernate, Java et MySQL dans le but de simplifier le processus de réservation des ressources. Son interface web conviviale est conçue pour améliorer l'efficacité des opérations.
+   Ce projet de gestion des employes et service a été créé en utilisant Hibernate, Java , JSFet MySQL dans le but de simplifier le processus de réservation des ressources. Son interface web conviviale est conçue pour améliorer l'efficacité des opérations.
  
 ### II Authentification:
 
@@ -10,6 +10,7 @@ Importer le code et exécutez le projet  :
 
 ![Authentification](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/61912da9-3149-4788-8605-033b4fb69aab)
 
+Saissez votre compte:
 
 ![COMPTE](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/42dd002c-7dc7-468a-9a87-c5feb7e4ab0a)
 
@@ -30,14 +31,15 @@ La service Math bien ajouté.
 
 ###  IIII Modifier une Service
 
-1  choisez la service qui vous voulez modifié:
+1  Rempliez la champs :
 
 ![SERVICEupdate](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/5d4236bf-4be2-4337-9253-684d31943a81)
 
-2 Cliquesz  sur update:
+2 Cliquesz  sur update pour  la service qui vous voulez modifié:
 
 ![SERVICEupdate1](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/e0b0dd41-a979-4d10-b1b9-c7ade19beeec)
 
+le code SM a été modifié à MA.
 
 ###  IIII Supprimer une Service
 

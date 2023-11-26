@@ -116,7 +116,7 @@ L'employe elmouwahid  bien supprimé.
 
 2 Chéma base de donnés :
 
-![BD](https://github.com/ELMOUWAHID-AYOUB/JAVA_WEB_JSP/assets/130571009/c60f4f83-ec60-4264-a88b-4523592645fa)
+![BD](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/d9d1c180-c374-4ae1-9b47-1a4b30ef7378)
 
 ###  Fonctionnalités du projet :
 

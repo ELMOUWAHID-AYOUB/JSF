@@ -8,6 +8,7 @@
 
 Importer le code et exécutez le projet  :
 
+
 ![Authentification](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/096ed3c1-1f48-477b-9c48-5acfb6e69e24)
 
 
@@ -97,6 +98,12 @@ l'employe elmouwahid bien ajouté.
 ![deleteempl1](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/57f74745-3a5f-4217-8cb2-71ddecd07acf)
 
 L'employe elmouwahid  bien supprimé.
+
+
+### IIII Fiche d'employe chef de service :
+
+![infofiche](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/22d79808-0bfa-427e-8f38-58524bf5f6b9)
+
 
 
 ### IIII Statistics le nombre d’employés par service :

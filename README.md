@@ -2,7 +2,7 @@
 
 ### I Introduction :
 
-   Ce projet de gestion des employes et service a été créé en utilisant Hibernate, Java , JSFet MySQL dans le but de simplifier le processus de réservation des ressources. Son interface web conviviale est conçue pour améliorer l'efficacité des opérations.
+   Ce projet de gestion des employes et service a été créé en utilisant Hibernate, Java , JSF et MySQL dans le but de simplifier le processus de réservation des ressources. Son interface web conviviale est conçue pour améliorer l'efficacité des opérations.
  
 ### II Authentification:
 

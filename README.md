@@ -64,6 +64,7 @@ La service Math bien supprimé.
 ### III Ajouter un  Employe:
 
 1 Entrez à site et saisez les champs nom ,prenom date naissance et selection les autres :
+
 ![addemploye](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/dfa0c304-f413-4da0-86c8-aa526ec8baf7)
 
 
@@ -77,6 +78,7 @@ l'employe elmouwahid bien ajouté.
 ###  IIII Modifier une Employe
 
 1  remplez la champs:
+
 ![update](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/50e5ee1a-766d-48d5-9d18-698b369d1d17)
 
 
@@ -102,8 +104,7 @@ L'employe elmouwahid  bien supprimé.
 
 ### IIII Fiche d'employe chef de service :
 
-![infofiche](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/22d79808-0bfa-427e-8f38-58524bf5f6b9)
-
+![infofiche](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/59e2f359-b45c-4d66-8736-c65361245204)
 
 
 ### IIII Statistics le nombre d’employés par service :
@@ -111,7 +112,6 @@ L'employe elmouwahid  bien supprimé.
 ![STATSTIC](https://github.com/ELMOUWAHID-AYOUB/JSF/assets/130571009/fd0ad861-39d6-4541-a948-4d7a09d6108a)
 
 
-### IIII Fiche d'un employeé:
 
 ### IIIII Base de donnes :
 
